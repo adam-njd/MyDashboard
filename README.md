@@ -80,7 +80,7 @@ MIT License - Feel free to use this project for personal or commercial purposes.
 
 ## 👤 Author
 
-Your Name / Your GitHub Username
+Houssain Njd
 
 ---
 
